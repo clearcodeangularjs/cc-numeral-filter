@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "angular": "~1.0.6",
-    "numeraljs": "~1.5.3",
+    "numeraljs": "~1.5.3"
   },
   "devDependencies": {
     "grunt": "^0.4.1",
