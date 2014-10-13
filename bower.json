@@ -5,6 +5,7 @@
   "ClearCode (http://clearcode.cc)"
 ],
   "version": "1.0.0",
+  "homepage" : "http://plnkr.co/edit/wZ7odrjVbX4JnNzIbkUP?p=preview",
   "main": "numeral.js",
   "ignore": [
     "**/.*",
