@@ -35,6 +35,7 @@ numeral:format
 
 ```
 
+list of formats - http://numeraljs.com/
 
 
 Author
