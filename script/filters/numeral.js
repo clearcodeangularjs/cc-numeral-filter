@@ -23,7 +23,7 @@
   'use strict';
 
   angular
-    .module('cc.numeral.filter')
+    .module('cc.numeral.filter', [])
     .filter('numeral', function () {
       return function (input, format) {
         return numeral(input).format(format);
