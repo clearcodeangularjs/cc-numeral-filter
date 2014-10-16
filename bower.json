@@ -6,7 +6,7 @@
 	],
 	"version": "1.0.0",
 	"homepage": "http://plnkr.co/edit/wZ7odrjVbX4JnNzIbkUP?p=preview",
-	"main": "numeral.js",
+	"main": "script/filters/numeral.js",
 	"ignore": [
 		"**/.*",
 		"node_modules",
