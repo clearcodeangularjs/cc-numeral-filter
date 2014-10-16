@@ -5,7 +5,7 @@ Filter that returns number parsed in set format.
 
 Installation
 --------------
-TODO
+``` bower install clearcodeangularjs/cc-numeral-filter --save ```
 
 
 Usage
